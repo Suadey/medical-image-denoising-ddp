@@ -14,3 +14,9 @@ This work explores distributed deep learning using U-Net and U-Net++ for denoisi
 
 ## 🗂 Folder Structure
 
+All the training and testing for 1 GPU and 2 GPU DP can be done right inside the notebook.
+
+For Optimized Multi-GPU (DDP + AMP), it needs to be run from the terminal with the following
+
+```bash
+torchrun --nproc_per_node=2 train_ddp_unetpp.py # 
