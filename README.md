@@ -8,7 +8,7 @@ by Sulaimon Oyeniyi Adebayo and Ayaz H. Khan
 
 ## 📌 Project Summary
 
-This work explores distributed deep learning using U-Net and U-Net++ for denoising chest X-rays from the NIH ChestX-ray14 dataset. The noisy images simulate privacy-preserving obfuscation using additive Gaussian noise, with training optimized using:
+This work explores distributed deep learning using U-Net and U-Net++ for denoising chest X-rays from the NIH ChestX-ray14 dataset. The noisy images simulate data obfuscation using additive Gaussian noise, with training optimized using:
 - PyTorch’s DistributedDataParallel (DDP)
 - Automatic Mixed Precision (AMP)
 
