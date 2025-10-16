@@ -3,7 +3,7 @@
 # Distributed Deep Learning for Medical Image Denoising with Data Obfuscation
 
 This repository contains the official PyTorch implementation of the paper:
-**"Distributed Deep Learning for Medical Image Denoising with Data Obfuscation"**  
+**"Distributed Deep Learning for Medical Image Denoising with Data Obfuscation"** accepted at the 2025 IEEE International Conference on Bioinformatics and Bioengineering (BIBE), Athens, Greece.
 by Sulaimon Oyeniyi Adebayo and Ayaz H. Khan
 
 ## Project Summary
